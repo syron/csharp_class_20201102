@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Miniräknare/1.0.0": {
+        "dependencies": {
+          "Miniräknare.Models": "1.0.0"
+        },
         "runtime": {
           "Miniräknare.dll": {}
+        }
+      },
+      "Miniräknare.Models/1.0.0": {
+        "runtime": {
+          "Miniräknare.Models.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Miniräknare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Miniräknare.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
