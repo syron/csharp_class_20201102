@@ -1,0 +1,13 @@
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.exe
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.deps.json
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.runtimeconfig.json
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.runtimeconfig.dev.json
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.dll
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\bin\Debug\netcoreapp3.1\Miniräknare.pdb
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.csprojAssemblyReference.cache
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.AssemblyInfoInputs.cache
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.AssemblyInfo.cs
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.csproj.CoreCompileInputs.cache
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.dll
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.pdb
+C:\git\csharp_class_20201102\Miniräknare\Miniräknare\obj\Debug\netcoreapp3.1\Miniräknare.genruntimeconfig.cache
